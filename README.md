@@ -1,2 +1,1 @@
-# katergio
 # katargeo
